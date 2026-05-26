@@ -1,0 +1,4 @@
+interface:
+  display_name: "MC Nylon Defect Analysis"
+  short_description: "分析浇铸尼龙缺陷并安排验证顺序"
+  default_prompt: "请根据我的症状描述、工艺记录和材料信息，按“症状-可能原因-验证方法-修正动作”的格式分析这次 MC 尼龙实验问题。"
