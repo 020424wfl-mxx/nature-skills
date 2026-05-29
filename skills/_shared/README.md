@@ -16,6 +16,7 @@ always_load:
 | `core/reader-workflow.md` | nature-polishing, nature-writing |
 | `core/paper-type-taxonomy.md` | nature-polishing, nature-writing |
 | `core/ethics.md` | nature-polishing, nature-writing |
+| `core/terminology-ledger.md` | nature-polishing, nature-writing |
 | `journal-formats/nat-comms.md` | nature-polishing, nature-writing |
 
 ## When to add a file here

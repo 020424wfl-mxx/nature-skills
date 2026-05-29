@@ -26,5 +26,6 @@ Identify before writing:
 - **evidence**: figures, measurements, comparisons, datasets, statistics, or examples
 - **boundary**: where the claim stops
 - **target journal or word limit** if provided
+- **terminology**: on first contact with the material, extract the recurring methods, models, datasets, metrics, abbreviations, and notation into a Terminology Ledger and reuse the canonical forms across every section (see `../../../_shared/core/terminology-ledger.md`)
 
 If any of `core claim`, `evidence`, or `boundary` is absent, expose the gap before drafting. You may still produce a scaffold with explicit placeholders.
