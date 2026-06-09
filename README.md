@@ -22,8 +22,13 @@
   </tr>
 </table>
 
-Hello everyone, I'm Yizhe Yuan, a Ph.D. candidate at Shanghai Jiao Tong University. My work primarily focuses on Medical AI research and entrepreneurial initiatives, and I am currently planning to establish related ventures in Zhangjiang, Pudong (Shanghai).
-If you have access to disease-specific pathology cohorts or large-scale pan-cancer cohorts (10,000+ patients), are building a startup in a related field, or are an investor interested in my work, feel free to connect with me via WeChat. Please include a brief note explaining the purpose of your contact request.
+Hello everyone, I’m Yizhe Yuan, founder of Nature Skills.
+After being contacted by countless top AI talents through GitHub and other channels, I decided to launch TOP AI CREW. Starting today, our talent alliance is officially open for recruitment.
+This is a community of carefully selected industry leaders: a place where diverse perspectives collide, frontier technologies evolve, and ambitious builders grow together.
+No more working in isolation. No more wasting energy on inefficient solo battles. Here, you’ll move forward alongside a group of world-class, like-minded peers—deepening your expertise in AI, pushing technical boundaries, and advancing to the forefront of the industry together.
+Think boldly. Move fearlessly. Create relentlessly.
+The next AI legend will be written by us—together.
+
 Thank you for your continued interest in nature-skill.
 If you have any feature requests or suggestions, please feel free to submit an Issue. If we find the proposal meaningful and feasible, we will do our best to implement it. We also welcome Pull Requests (PRs). However, please follow the contribution format described later in this README to help us review and merge submissions more efficiently.
 
