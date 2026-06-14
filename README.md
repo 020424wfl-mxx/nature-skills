@@ -8,17 +8,18 @@
 <table>
   <tr>
     <td align="center">
-      <b></b><br>
+      <b>6.17投资交流会</b><br>
+      <img width="300" alt="6.17投资交流会" src="https://github.com/user-attachments/assets/bfa8d4c4-2c99-4cb2-8534-db8dd45b3e0a" />
     </td>
+
     <td align="center">
-      <b>6.17投资交流会</b>
-      <img width="400" alt="6.17投资交流会" src="https://github.com/user-attachments/assets/bfa8d4c4-2c99-4cb2-8534-db8dd45b3e0a" />
       <b>个人微信</b><br>
-      <img width="400" alt="个人微信" src="https://github.com/user-attachments/assets/9e2931fb-748b-418e-97ab-0515d191633d" />
+      <img width="300" alt="个人微信" src="https://github.com/user-attachments/assets/9e2931fb-748b-418e-97ab-0515d191633d" />
     </td>
+
     <td align="center">
       <b>个人简介</b><br>
-      <img width="400" alt="个人简介" src="https://github.com/user-attachments/assets/4930665b-ce34-4dd1-a02a-fb03b3673046" />
+      <img width="300" alt="个人简介" src="https://github.com/user-attachments/assets/4930665b-ce34-4dd1-a02a-fb03b3673046" />
     </td>
   </tr>
 </table>
