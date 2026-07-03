@@ -1,9 +1,10 @@
 ---
 name: mc-nylon-experiment
 description: >-
-  用于设计 MC 尼龙、cast PA6、己内酰胺阴离子聚合相关实验方案、批次记录模板、
-  变量矩阵、投料换算和排错顺序。用户要求安排脱水、真空、催化剂/活化剂、
-  TDI、NaOH、浇铸、聚合、保温、glass fiber、silica 分散与实验记录时使用。
+  用于设计 MC 尼龙、浇铸尼龙、铸型尼龙、monomer casting nylon、cast PA6、
+  己内酰胺阴离子聚合相关实验方案、批次记录模板、变量矩阵、投料换算和排错顺序。
+  用户要求安排脱水、真空、催化剂/活化剂、TDI、NaOH、sodium caprolactamate、浇铸、
+  聚合、保温、glass fiber、silica 分散、填料加入顺序与实验记录时使用。
 ---
 
 # MC Nylon Experiment Skill

@@ -1,4 +1,4 @@
 interface:
   display_name: "MC Nylon Literature"
-  short_description: "检索和归类 MC 尼龙相关文献"
-  default_prompt: "请帮我围绕 MC 尼龙、cast PA6、己内酰胺阴离子聚合、增强增韧和耐磨性能做文献检索、主题分组、Zotero 分类和研究空白梳理。"
+  short_description: "检索和归类浇铸尼龙文献"
+  default_prompt: "请使用 $mc-nylon-literature，围绕 MC 尼龙/浇铸尼龙、cast PA6、己内酰胺阴离子聚合、增强增韧和耐磨性能做文献检索、主题分组、Zotero 分类和研究空白梳理。"

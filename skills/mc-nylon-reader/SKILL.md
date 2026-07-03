@@ -1,9 +1,10 @@
 ---
 name: mc-nylon-reader
 description: >-
-  把单篇 MC 尼龙、cast nylon、cast PA6、己内酰胺阴离子聚合及增强增韧相关论文、
-  PDF、网页或实验笔记整理成中文科研阅读稿。适用于翻译、精读、实验条件提取、
-  配方与工艺参数摘录、图表解读、可复现性判断和对 MC 尼龙实验参考价值评估。
+  把单篇 MC 尼龙、浇铸尼龙、铸型尼龙、monomer casting nylon、cast nylon、cast PA6、
+  己内酰胺阴离子聚合及增强增韧相关论文、PDF、网页、专利或实验笔记整理成中文科研阅读稿。
+  适用于翻译、精读、实验条件提取、配方与工艺参数摘录、图表解读、可复现性判断和对
+  MC 尼龙实验参考价值评估。
 ---
 
 # MC Nylon Reader Skill

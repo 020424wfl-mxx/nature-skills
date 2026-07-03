@@ -1,10 +1,11 @@
 ---
 name: mc-nylon-literature
 description: >-
-  面向 MC 尼龙、cast nylon、cast PA6、己内酰胺阴离子聚合、催化剂/活化剂体系、
-  TDI、NaOH、glass fiber、silica、tribology、mechanical properties 的文献检索、
-  筛选、主题归类、研究空白梳理、数据库检索式设计和 Zotero 分类建议。用户要求查找、
-  比较、整理或评估浇铸尼龙相关文献方向时使用。
+  面向 MC 尼龙、浇铸尼龙、铸型尼龙、monomer casting nylon、cast nylon、cast PA6、
+  己内酰胺阴离子聚合、催化剂/活化剂体系、TDI、NaOH、sodium caprolactamate、
+  glass fiber、silica、tribology、mechanical properties 的文献检索、筛选、主题归类、
+  研究空白梳理、数据库检索式设计和 Zotero 分类建议。用户要求查找、比较、整理或评估
+  浇铸尼龙相关论文、专利、综述、实验依据或研究方向时使用。
 ---
 
 # MC Nylon Literature Skill

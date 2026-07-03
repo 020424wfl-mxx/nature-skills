@@ -1,4 +1,4 @@
 interface:
   display_name: "MC Nylon Reader"
-  short_description: "精读单篇 MC 尼龙论文并提取参数"
-  default_prompt: "请把这篇 MC 尼龙相关论文整理成中文阅读稿，提取实验条件、图表结论、可复现要点，并说明哪些内容可借鉴、哪些还需要核实。"
+  short_description: "精读浇铸尼龙论文并提取参数"
+  default_prompt: "请使用 $mc-nylon-reader，把这篇 MC 尼龙/浇铸尼龙相关论文整理成中文阅读稿，提取实验条件、图表结论、可复现要点，并说明哪些内容可借鉴、哪些还需要核实。"

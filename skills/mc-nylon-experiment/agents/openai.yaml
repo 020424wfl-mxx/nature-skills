@@ -1,4 +1,4 @@
 interface:
   display_name: "MC Nylon Experiment"
   short_description: "设计浇铸尼龙实验方案与记录表"
-  default_prompt: "请帮我围绕 MC 尼龙实验设计 SOP、投料换算、变量矩阵、实验记录表和下一轮优化建议，并明确哪些地方还需要我补充信息。"
+  default_prompt: "请使用 $mc-nylon-experiment，围绕 MC 尼龙/浇铸尼龙实验设计 SOP、投料换算、变量矩阵、实验记录表和下一轮优化建议，并明确哪些地方还需要我补充信息。"
